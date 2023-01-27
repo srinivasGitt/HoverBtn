@@ -1,0 +1,29 @@
+.align{
+    text-align: center;
+    padding:  0 auto;
+    background-color: aquamarine;
+    height: 900px;
+    justify-content: center;
+    position: relative;
+    border: none;
+}
+
+h2{
+    margin-top: 100px;
+    position:absolute;
+    margin-left: 600px;
+    
+}
+
+.button{
+    background-color: black;
+    color: beige;
+    height: 50px;
+    width: 100px;
+    margin-top: 200px;
+}
+
+.button:hover{
+    background-color: darkorange;
+    color: black;
+}
